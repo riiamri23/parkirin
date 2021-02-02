@@ -6,4 +6,4 @@
 ![alt text](https://github.com/riiamri23/parkirin/blob/main/parkiran-flutter/assets/screens/parkirin5.PNG)
 ![alt text](https://github.com/riiamri23/parkirin/blob/main/parkiran-flutter/assets/screens/parkirin6.PNG)
 
-# untuk webnya hasil modifikasi dan diambil dari repository https://github.com/bahyusanciko/ci-parking
+Untuk webnya hasil modifikasi dan diambil dari repository https://github.com/bahyusanciko/ci-parking
